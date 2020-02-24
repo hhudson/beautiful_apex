@@ -1,4 +1,5 @@
 @import "./common";
+@import "@material/textfield/mdc-text-field";
 
 .header {
   text-align: center;
@@ -9,4 +10,11 @@
   height: 150px;
   padding-top: 80px;
   fill: currentColor;
+}
+
+.username,
+.password {
+  display: block;
+  width: 300px;
+  margin: 20px auto;
 }

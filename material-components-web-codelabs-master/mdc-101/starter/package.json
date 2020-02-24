@@ -15,8 +15,12 @@
     "extract-loader": "^1.0.2",
     "fibers": "^4.0.0",
     "file-loader": "^1.1.11",
+    "material-components-web": "^5.0.0",
     "sass-loader": "^7.1.0",
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.4.3"
+  },
+  "dependencies": {
+    "@material/textfield": "^5.0.0"
   }
 }
